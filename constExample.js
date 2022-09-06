@@ -19,5 +19,5 @@ me.first = 'Jessica';
 
 console.log(me);
 
-//This is legal as we are not trying to chnage the value of the const me, instead we are just chnaging the pointer/reference to its first property's location
+//This is legal as we are not trying to chnage the value or pointer to the the const variable me, instead we are just chnaging the pointer/reference to its first property's location
 
