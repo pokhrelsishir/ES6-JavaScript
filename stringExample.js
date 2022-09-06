@@ -5,4 +5,4 @@ function greeting(first, last)
 }
 
 
-console.log(greeting(Bob,Misty));
+console.log(greeting("Bob","Misty"));
