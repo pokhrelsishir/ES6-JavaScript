@@ -15,6 +15,11 @@ let expression2 = function(x)
 
 
 let result = expression('Tony')('Alicia')(true);
+//This means x is Tony, y is Alicia, z is true
+// So, if z is true then return y else return x
+// So, since z is true, returns Alicia
+
+
 
 let result2 = expression('Tony')('Alicia')(false);
 
