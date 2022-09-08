@@ -23,4 +23,6 @@ let sqr = (x) => x*x;
 
 // We can even remove the brackets as we have only a single parameter in arrow function
 
-let sqr2 = x => x*x;
+let sqr2 = x => x*x;    // This is actually close to mathematics function eg: f:x => x^2
+
+
